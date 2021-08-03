@@ -18,6 +18,7 @@ public class Main {
         teacher.NotifyObservers();
 
         System.out.println("Git");
+        System.out.println("Hello");
     }
 }
 
