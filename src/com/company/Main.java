@@ -16,6 +16,8 @@ public class Main {
 
         teacher.setInform("До зустрічі");
         teacher.NotifyObservers();
+
+        System.out.println("Git");
     }
 }
 
